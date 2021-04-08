@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pair-bnb-309615",
+  "private_key_id": "8849389cc43c7e00a631c49d558409609fd66d2c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC35jZT4cylZlMd\nkUvSc+BEPfCYSHrX3IGFRKPzQVXCPuJ9qJVVB0qAb9YGLU39ssZ11huSU+PPP1BM\n1QvwvCX75hGDdDXpoAztjQkm//S5XGq80r/F38rndeDXgViuFnz/m1Znkdz616zt\n2QI9ZOgr+3ts2Vk9gr09mKhrUzT9l+4WsWSKsY7bs8vUTtPreUZpeF+vox8QYMci\nwHpofdOmr4WsCc+oi22SjyaVCCfiBR4hBYbqtDlUr6c7lBguZAul0oQOFCjvlmIi\nL9spBMFLeq8KgTdCxVgIzrEg7LwymrAOd+y3DCdReOvAgl1Ck2nqFTmhpL/tqtgi\n6UDnjpP/AgMBAAECggEAVhlbCzfXBANd26SIrs4gzGKBkBKzLPhozZfe+Md4mtqt\nWO7Ch85Dk9GIj1jLwIFgiJAHVaGgMYpvkqFWl03HrOHBBl401Z5hHyEejVtd3SEH\nOkOjlMWb7nVSoSNGfS87M8MrF4+Dug+bP7qP4WWqi9kQptw1+2YIKtwb0i/hSe75\nmrhSuXzNqHMz3D1xiMr5f76tvMi0W0tmVCwsYMAPysLZfJRFmzMacMw6RJeQEkF0\n9IzAAp21yPs85k2fNt+xyEoBlfEpr52IkGL+fNgzc9INHGFWHDT9/5Sg/zosMgoX\ncaj3cPG0haGcW+d+jVl37JLSSVV3Al1cLXwFVsr/rQKBgQDsMEa1lBi1Irk/LkVQ\nGiQzyvFgEtr8EDXOszYJNYfCrkPvV9/bwc8vug7OsAamMWva2E6CyVGg6HRvgVAW\nThehxHNvK83UVOUXNPvvIzi2JhUK4JEnZ6wJlGigV29ifqqY3CxX7DmLZTxshwoo\nmAOgvYTapbBD80MzPZk0KIFmIwKBgQDHUx4I1Ylm2LJcbeSW7y0Qfnq8/NzzstlO\nRCj52Gu47xZQIRjNOOXaNAEmZlYBcXG6AiVhTgLmMVgwy0Td1Vg1qyAZdekbLOXU\nH6Mjc80ZxHcVWU+mjRwIciYtME1Ty0nH2I5X0P/otQHQmJaEYQHnCMHBgQ6RC9fk\n0I2UGsDidQKBgHujjfBRtVlk8vpK+4fCF39xVkfHtxDKX5Bzqe7KMeZMmU16f7on\nS5EdYdD6vpBTQLWQFBFM18lWxlT0qXrzqFVLZG4mzRnA0ygB2XxGwNJBPzSxd+rb\nz2g4Y0jEXI9/5UgdwazJARqihS3+xueXJBcJ/rkCkTIQ7vWs4j02kv5nAoGBAJ3e\nzCQNFQW7ThF9DJcrGpM8yfPThyERn6GoxJeWfUN9Qjv26tDoZszbcam7VhVQh9Xe\ni0K1agBuRr5m0MWui23+eq8Pv7BBcEsBP9H9jw4AmJz1Huv4SaK63lfeMPDUSzyY\n3azaIUZrzuMrZ9OzjbEyM1wS3rmtGrLlJ62NPwZdAoGAd/xBGT5PGjTU/NGWQ9pC\nRjJ0U/RhaFz/g5Ya/2phv8tneqo/Ace5usKZQD3yTNEM8tgeNpIKHLP46RnA53oK\n/y6E5Jivz+0on2L6YwsvlaHsecwDl5QmDC7yuPG51mE++wPZhq9Jo3A8Zl6KBAFv\nhWsptzI2CsVkvAsBiPI6fng=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pairbnb-admin@pair-bnb-309615.iam.gserviceaccount.com",
+  "client_id": "115798213520130942255",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pairbnb-admin%40pair-bnb-309615.iam.gserviceaccount.com"
+}
